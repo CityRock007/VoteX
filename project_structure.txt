@@ -1,0 +1,44 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    register_screen.dart
+    vote_screen.dart
+    results_screen.dart
+    admin_dashboard.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    blockchain_service.dart
+    notification_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    vote.js
+    candidate.js
+    blockchain.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    blockchain.js
+    env.js
+
+/contracts
+  VoteX.sol
+
+/assets
+  /images
+  /icons
+  /mock_data
+
+/docs
+  system_architecture.png
+  api_endpoints.md
+  feature_list.md
+  blockchain_flow.md

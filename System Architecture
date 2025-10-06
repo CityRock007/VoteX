@@ -1,0 +1,11 @@
+Voters / Admins / Observers → VoteX Web & Mobile App (Flutter)
+│
+│──> REST API (Node.js + Express / FastAPI)
+│
+│──> Database (PostgreSQL / MongoDB)
+│
+│──> Blockchain Layer (Ethereum / Hyperledger / Smart Contracts)
+│
+│──> Hosting (ReinHost VPS / AWS Lightsail)
+│
+└──> Notifications (Firebase / SMTP)
